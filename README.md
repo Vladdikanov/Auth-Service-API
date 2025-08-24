@@ -1,11 +1,11 @@
 #  Сервис авторизации пользователей
 ### ⚙️ Стек технологий
-> Python 3.12
-> FastAPI
-> PostgreSQL
-> SQLAlchemy
-> Docker & Docker Compose
-> Adminer
+> Python 3.12  
+> FastAPI  
+> PostgreSQL  
+> SQLAlchemy  
+> Docker & Docker Compose  
+> Adminer  
 
 ### 🚀 Установка и запуск
 
@@ -19,8 +19,8 @@ docker-compose up --build
 👉 http://localhost:8080
 
 ##### Логин для Adminer:
-System: PostgreSQL
-Server: db
-Username: postgres
-Password: postgres
-Database: postgres
+System: PostgreSQL  
+Server: db  
+Username: postgres  
+Password: postgres  
+Database: postgres  
